@@ -9,10 +9,10 @@ You now have the professional folder structures and configuration templates to s
 I am currently finalizing the **Git Mastery Bundle**, a complete visual ecosystem designed to help you move from "guessing" to "mastering" Git.
 
 **The upcoming Bundle includes:**
-*   📄 **The Visual Guide (PDF):** 15 high-definition steps to a pro workflow.
-*   🛡️ **SOS Playbook (Excel):** Instant fixes for 50+ common Git disasters.
-*   ✅ **Setup Checklist (Excel):** Never miss a security or config step again.
-*   ✍️ **10 Hands-on Exercises:** Build muscle memory in 60 minutes.
+*   📄 **The Visual Guide (PDF):** 15 high-definition steps to a pro workflow — [Available now on Gumroad](https://jameswillburth.gumroad.com/l/github_never_lose_your_code)
+*   🛡️ **SOS Playbook (Excel):** Instant fixes for 50+ common Git disasters — [Available now on Gumroad](https://jameswillburth.gumroad.com/l/EmergencyRunbook)
+*   ✅ **Setup Checklist (Excel):** Never miss a security or config step again. 🚧 Coming Soon
+*   ✍️ **10 Hands-on Exercises:** Build muscle memory in 60 minutes. 🚧 Coming Soon
 
 ### 🔔 GET NOTIFIED AT LAUNCH
 The bundle will be available next weekend. Follow my store to get an early-bird discount:
